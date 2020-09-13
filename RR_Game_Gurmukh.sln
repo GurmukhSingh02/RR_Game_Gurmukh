@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RR_Game_Gurmukh", "RR_Game_Gurmukh\RR_Game_Gurmukh.csproj", "{9AAA31F7-CAE7-4C52-97FD-EA03E07FE624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject_Gurmukh", "UnitTestProject_Gurmukh\UnitTestProject_Gurmukh.csproj", "{8253EFC0-AA74-4498-9C57-21E0B059F590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAA31F7-CAE7-4C52-97FD-EA03E07FE624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAA31F7-CAE7-4C52-97FD-EA03E07FE624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAA31F7-CAE7-4C52-97FD-EA03E07FE624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAA31F7-CAE7-4C52-97FD-EA03E07FE624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8253EFC0-AA74-4498-9C57-21E0B059F590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8253EFC0-AA74-4498-9C57-21E0B059F590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8253EFC0-AA74-4498-9C57-21E0B059F590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8253EFC0-AA74-4498-9C57-21E0B059F590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39210081-BC9E-410A-A30E-03517D718162}
+	EndGlobalSection
+EndGlobal
